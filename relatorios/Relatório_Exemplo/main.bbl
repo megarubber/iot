@@ -1,0 +1,25 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.7 }
+
+\bibitem[Arduino 2023]{arduino}
+\abntrefinfo{Arduino}{ARDUINO}{2023}
+{ARDUINO. \emph{Arduino with SPI Communication}. 2023.
+Dispon{\'\i}vel em: \url{https://docs.arduino.cc/learn/communication/spi}.}
+
+\bibitem[EspressIf 2026]{espressifSPI}
+\abntrefinfo{EspressIf}{ESPRESSIF}{2026}
+{ESPRESSIF. \emph{Serial Peripheral Interface (SPI)}. 2026.
+Dispon{\'\i}vel em:
+  \url{https://docs.espressif.com/projects/esp-faq/en/latest/software-framework/peripherals/spi.html}.}
+
+\bibitem[Espressif 2026]{espressifSPISlave}
+\abntrefinfo{Espressif}{ESPRESSIF}{2026}
+{ESPRESSIF. \emph{SPI Slave Driver}. 2026.
+Dispon{\'\i}vel em:
+  \url{https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/peripherals/spi\_slave.html}.}
+
+\end{thebibliography}

@@ -1,0 +1,936 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.9.7)  13 SEP 2026 14:07
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./main.tex
+(main.tex
+LaTeX2e <2026-06-01>
+L3 programming layer <2026-08-10>
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count276
+\c@section=\count277
+\c@subsection=\count278
+\c@subsubsection=\count279
+\c@paragraph=\count280
+\c@subparagraph=\count281
+\c@figure=\count282
+\c@table=\count283
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen150
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/wallpaper\wallpaper
+.sty
+Package: wallpaper 2005/01/18, v1.01 easy wallpaper formatting (MHFW)
+
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
+\calc@Acount=\count284
+\calc@Bcount=\count285
+\calc@Adimen=\dimen151
+\calc@Bdimen=\dimen152
+\calc@Askip=\skip51
+\calc@Bskip=\skip52
+LaTeX Info: Redefining \setlength on input line 86.
+LaTeX Info: Redefining \addtolength on input line 87.
+\calc@Ccount=\count286
+\calc@Cskip=\skip53
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2026/05/31 v3.0e eso-pic (RN)
+\ESO@tempdima=\dimen153
+\ESO@tempdimb=\dimen154
+
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2026-05-17 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.
+cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex
+.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.
+ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+))
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.s
+ty
+Package: graphicx 2026-05-17 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.s
+ty
+Package: graphics 2026-05-17 v1.4h Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphi
+cs.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+)
+\Gin@req@height=\dimen155
+\Gin@req@width=\dimen156
+)
+\wpXoffset=\skip54
+\wpYoffset=\skip55
+\tileXoffset=\skip56
+\tileYoffset=\skip57
+\tilewidth=\skip58
+\tileheight=\skip59
+\tileX=\skip60
+\tileY=\skip61
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count287
+\float@exts=\toks18
+\float@box=\box53
+\@float@everytoks=\toks19
+\@floatcapt=\box54
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks20
+\inpenc@posthook=\toks21
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/circuitikz\circuiti
+kz.sty
+Package: circuitikz 2026/05/24{} The CircuiTikz circuit drawing package version
+ 1.8.6
+
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\t
+ikz.sty
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.
+sty
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrc
+s.sty
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgf
+util-common.tex
+\pgfutil@everybye=\toks22
+\pgfutil@tempdima=\dimen157
+\pgfutil@tempdimb=\dimen158
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgf
+util-latex.def
+\pgfutil@abb=\box55
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgf
+rcs.code.tex
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.
+tex)
+Package: pgfrcs 2026-08-01 v3.1.12 (3.1.12)
+))
+Package: pgf 2026-08-01 v3.1.12 (3.1.12)
+
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfc
+ore.sty
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgf
+sys.sty
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\p
+gfsys.code.tex
+Package: pgfsys 2026-08-01 v3.1.12 (3.1.12)
+
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgf
+keys.code.tex
+\pgfkeys@pathtoks=\toks23
+\pgfkeys@temptoks=\toks24
+
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgf
+keyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks25
+))
+\pgf@x=\dimen159
+\pgf@y=\dimen160
+\pgf@xa=\dimen161
+\pgf@ya=\dimen162
+\pgf@xb=\dimen163
+\pgf@yb=\dimen164
+\pgf@xc=\dimen165
+\pgf@yc=\dimen166
+\pgf@xd=\dimen167
+\pgf@yd=\dimen168
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count288
+\c@pgf@countb=\count289
+\c@pgf@countc=\count290
+\c@pgf@countd=\count291
+\t@pgf@toka=\toks26
+\t@pgf@tokb=\toks27
+\t@pgf@tokc=\toks28
+\pgf@sys@id@count=\count292
+
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\p
+gf.cfg
+File: pgf.cfg 2026-08-01 v3.1.12 (3.1.12)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\p
+gfsys-pdftex.def
+File: pgfsys-pdftex.def 2026-08-01 v3.1.12 (3.1.12)
+
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\p
+gfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2026-08-01 v3.1.12 (3.1.12)
+)))
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\p
+gfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2026-08-01 v3.1.12 (3.1.12)
+\pgfsyssoftpath@smallbuffer@items=\count293
+\pgfsyssoftpath@bigbuffer@items=\count294
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\p
+gfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2026-08-01 v3.1.12 (3.1.12)
+))
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
+fcore.code.tex
+Package: pgfcore 2026-08-01 v3.1.12 (3.1.12)
+
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.
+code.tex
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathu
+til.code.tex)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathp
+arser.code.tex
+\pgfmath@dimen=\dimen169
+\pgfmath@count=\count295
+\pgfmath@box=\box56
+\pgfmath@toks=\toks29
+\pgfmath@stack@operand=\toks30
+\pgfmath@stack@operation=\toks31
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathf
+unctions.code.tex)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathf
+unctions.basic.code.tex)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathf
+unctions.trigonometric.code.tex)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathf
+unctions.random.code.tex)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathf
+unctions.comparison.code.tex)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathf
+unctions.base.code.tex)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathf
+unctions.round.code.tex)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathf
+unctions.misc.code.tex)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathf
+unctions.integerarithmetics.code.tex)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathc
+alc.code.tex)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathf
+loat.code.tex
+\c@pgfmathroundto@lastzeros=\count296
+))
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.c
+ode.tex)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
+fcorepoints.code.tex
+File: pgfcorepoints.code.tex 2026-08-01 v3.1.12 (3.1.12)
+\pgf@picminx=\dimen170
+\pgf@picmaxx=\dimen171
+\pgf@picminy=\dimen172
+\pgf@picmaxy=\dimen173
+\pgf@pathminx=\dimen174
+\pgf@pathmaxx=\dimen175
+\pgf@pathminy=\dimen176
+\pgf@pathmaxy=\dimen177
+\pgf@xx=\dimen178
+\pgf@xy=\dimen179
+\pgf@yx=\dimen180
+\pgf@yy=\dimen181
+\pgf@zx=\dimen182
+\pgf@zy=\dimen183
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
+fcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2026-08-01 v3.1.12 (3.1.12)
+\pgf@path@lastx=\dimen184
+\pgf@path@lasty=\dimen185
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
+fcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2026-08-01 v3.1.12 (3.1.12)
+\pgf@shorten@end@additional=\dimen186
+\pgf@shorten@start@additional=\dimen187
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
+fcorescopes.code.tex
+File: pgfcorescopes.code.tex 2026-08-01 v3.1.12 (3.1.12)
+\pgfpic=\box57
+\pgf@hbox=\box58
+\pgf@layerbox@main=\box59
+\pgf@picture@serial@count=\count297
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
+fcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2026-08-01 v3.1.12 (3.1.12)
+\pgflinewidth=\dimen188
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
+fcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2026-08-01 v3.1.12 (3.1.12)
+\pgf@pt@x=\dimen189
+\pgf@pt@y=\dimen190
+\pgf@pt@temp=\dimen191
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
+fcorequick.code.tex
+File: pgfcorequick.code.tex 2026-08-01 v3.1.12 (3.1.12)
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
+fcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2026-08-01 v3.1.12 (3.1.12)
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
+fcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2026-08-01 v3.1.12 (3.1.12)
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
+fcorearrows.code.tex
+File: pgfcorearrows.code.tex 2026-08-01 v3.1.12 (3.1.12)
+\pgfarrowsep=\dimen192
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
+fcoreshade.code.tex
+File: pgfcoreshade.code.tex 2026-08-01 v3.1.12 (3.1.12)
+\pgf@max=\dimen193
+\pgf@sys@shading@range@num=\count298
+\pgf@shadingcount=\count299
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
+fcoreimage.code.tex
+File: pgfcoreimage.code.tex 2026-08-01 v3.1.12 (3.1.12)
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
+fcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2026-08-01 v3.1.12 (3.1.12)
+\pgfexternal@startupbox=\box60
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
+fcorelayers.code.tex
+File: pgfcorelayers.code.tex 2026-08-01 v3.1.12 (3.1.12)
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
+fcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2026-08-01 v3.1.12 (3.1.12)
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
+fcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2026-08-01 v3.1.12 (3.1.12)
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
+fcorerdf.code.tex
+File: pgfcorerdf.code.tex 2026-08-01 v3.1.12 (3.1.12)
+)))
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmo
+duleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2026-08-01 v3.1.12 (3.1.12)
+\pgfnodeparttextbox=\box61
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmo
+duleplot.code.tex
+File: pgfmoduleplot.code.tex 2026-08-01 v3.1.12 (3.1.12)
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\p
+gfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2026-08-01 v3.1.12 (3.1.12)
+\pgf@nodesepstart=\dimen194
+\pgf@nodesepend=\dimen195
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\p
+gfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2026-08-01 v3.1.12 (3.1.12)
+))
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffo
+r.sty
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfke
+ys.sty
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgf
+keys.code.tex))
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.st
+y
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.
+code.tex))
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgf
+for.code.tex
+Package: pgffor 2026-08-01 v3.1.12 (3.1.12)
+\pgffor@iter=\dimen196
+\pgffor@skip=\dimen197
+\pgffor@stack=\toks32
+\pgffor@toks=\toks33
+))
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer
+/tikz\tikz.code.tex
+Package: tikz 2026-08-01 v3.1.12 (3.1.12)
+
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgf
+libraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2026-08-01 v3.1.12 (3.1.12)
+\pgf@plot@mark@count=\count300
+\pgfplotmarksize=\dimen198
+)
+\tikz@lastx=\dimen199
+\tikz@lasty=\dimen256
+\tikz@lastxsaved=\dimen257
+\tikz@lastysaved=\dimen258
+\tikz@lastmovetox=\dimen259
+\tikz@lastmovetoy=\dimen260
+\tikzleveldistance=\dimen261
+\tikzsiblingdistance=\dimen262
+\tikz@figbox=\box62
+\tikz@figbox@bg=\box63
+\tikz@tempbox=\box64
+\tikz@tempbox@bg=\box65
+\tikztreelevel=\count301
+\tikznumberofchildren=\count302
+\tikznumberofcurrentchild=\count303
+\tikz@fig@count=\count304
+
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmo
+dulematrix.code.tex
+File: pgfmodulematrix.code.tex 2026-08-01 v3.1.12 (3.1.12)
+\pgfmatrixcurrentrow=\count305
+\pgfmatrixcurrentcolumn=\count306
+\pgf@matrix@numberofcolumns=\count307
+)
+\tikz@expandcount=\count308
+
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer
+/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2026-08-01 v3.1.12 (3.1.12)
+)))
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer
+/tikz/libraries\tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2026-08-01 v3.1.12 (3.1.12)
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgf
+libraryarrows.meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2026-08-01 v3.1.12 (3.1.12)
+\pgfarrowinset=\dimen263
+\pgfarrowlength=\dimen264
+\pgfarrowwidth=\dimen265
+\pgfarrowlinewidth=\dimen266
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer
+/tikz/libraries\tikzlibrarybending.code.tex
+File: tikzlibrarybending.code.tex 2026-08-01 v3.1.12 (3.1.12)
+
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmo
+dulebending.code.tex
+File: pgfmodulebending.code.tex 2026-08-01 v3.1.12 (3.1.12)
+
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmo
+dulenonlineartransformations.code.tex
+File: pgfmodulenonlineartransformations.code.tex 2026-08-01 v3.1.12 (3.1.12)
+\pgftransformnonlinearflatness=\dimen267
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgf
+librarycurvilinear.code.tex
+File: pgflibrarycurvilinear.code.tex 2026-08-01 v3.1.12 (3.1.12)
+\pgf@curvilinear@time@a=\dimen268
+\pgf@curvilinear@length@a=\dimen269
+\pgf@curvilinear@length@b=\dimen270
+\pgf@curvilinear@length@c=\dimen271
+\pgf@curvilinear@length@d=\dimen272
+)
+\pgf@arrows@the@rigidity=\dimen273
+))
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer
+/tikz/libraries\tikzlibraryfpu.code.tex
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgf
+libraryfpu.code.tex))
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcir
+c.defines.tex
+\pgf@circ@count@a=\count309
+\pgf@circ@count@b=\count310
+\pgf@circ@count@c=\count311
+\pgf@circ@res@up=\dimen274
+\pgf@circ@res@down=\dimen275
+\pgf@circ@res@zero=\dimen276
+\pgf@circ@res@left=\dimen277
+\pgf@circ@res@right=\dimen278
+\pgf@circ@res@other=\dimen279
+\pgf@circ@res@step=\dimen280
+\pgf@circ@res@temp=\dimen281
+\pgf@circ@Rlen=\dimen282
+\pgf@circ@scaled@Rlen=\dimen283
+\pgfstartlinewidth=\dimen284
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcir
+cutils.tex
+\ctikz@scratchbox=\box66
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcir
+cpath.tex
+\ctikz@vif@count=\count312
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcir
+cshapes.tex)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcir
+cmonopoles.tex)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcir
+cbipoles.tex)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcir
+ctripoles.tex
+\pgf@circ@res@count=\count313
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcir
+cquadpoles.tex)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcir
+cmultipoles.tex)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcir
+clabel.tex)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcir
+cvoltage.tex
+\pgfcirc@labelshift=\dimen285
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcir
+ccurrent.tex)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcir
+cflow.tex))
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.s
+ty
+\lst@mode=\count314
+\lst@gtempboxa=\box67
+\lst@token=\toks34
+\lst@length=\count315
+\lst@currlwidth=\dimen286
+\lst@column=\count316
+\lst@pos=\count317
+\lst@lostspace=\dimen287
+\lst@width=\dimen288
+\lst@newlines=\count318
+\lst@lineno=\count319
+\lst@maxwidth=\dimen289
+
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.s
+ty
+File: lstpatch.sty 2025/11/14 1.11b (Carsten Heinz)
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.st
+y
+File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
+\c@lstnumber=\count320
+\lst@skipnumbers=\count321
+\lst@framebox=\box68
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.c
+fg
+File: listings.cfg 2025/11/14 1.11b listings configuration
+))
+Package: listings 2025/11/14 1.11b (Carsten Heinz)
+
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.s
+ty
+File: lstlang1.sty 2025/11/14 1.11b listings language file
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.s
+ty
+File: lstlang1.sty 2025/11/14 1.11b listings language file
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.st
+y
+File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/abntex2\abntex2cite
+.sty
+Package: abntex2cite 2018/11/24 v-1.9.7 abnTeX2
+
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/abntex2\abntex2abre
+v.sty)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.s
+ty
+Package: setspace 2022/12/04 v6.7b set line spacing
+) (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\minimumbiblabelwidth=\skip62
+\ABCIauxlen=\skip63
+\c@ABCIaux=\count322
+\c@ABCImax=\count323
+
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/relsize\relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+\biblabelsep=\skip64
+LaTeX Info: Redefining \newblock on input line 591.
+LaTeX Info: Redefining \cite on input line 618.
+\ABCItoken=\toks35
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/hyphenat\hyphenat.s
+ty
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language79
+LaTeX Info: Redefining \_ on input line 43.
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2026/08/21 v26.11 The multilingual framework for LuaLaTeX, pdfLa
+TeX and XeLaTeX
+\babel@savecnt=\count324
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
+ne 2105.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input li
+ne 2107.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input lin
+e 2109.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input lin
+e 2110.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) 
+on input line 2111.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) 
+on input line 2113.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) 
+on input line 2138.
+\U@D=\dimen290
+\l@unhyphenated=\language80
+
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.de
+f)
+\bbl@readstream=\read3
+\bbl@dirlevel=\count325
+Package babel Info: Configuration files are deprecated, as
+(babel)             they can break document portability.
+(babel)             Reported on input line 4332.
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/inva
+lid\babel-brazil.tex)
+
+Package babel Warning: Name 'brazil' is deprecated.
+(babel)                Use 'brazilian' instead.
+(babel)                Reported on input line 4460.
+
+Package babel Info: Importing font and identification data for 'brazil'
+(babel)             from babel-pt-BR.ini. Reported on input line 4460.
+
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/babel-portuges\braz
+ilian.ldf
+Language: portuges 2026/01/24 v1.2u Portuguese support from the babel system
+Package babel Info: Hyphen rules for 'brazil' set to \l@portuguese
+(babel)             (\language56). Reported on input line 100.
+Package babel Info: Making " an active character on input line 132.
+))
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\l3backend-
+pdftex.def
+File: l3backend-pdftex.def 2026-08-10 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count326
+) (main.aux
+Package babel Info: 'brazil' activates 'portuges' shorthands.
+(babel)             Reported on input line 7.
+)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pd
+f.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count327
+\scratchdimen=\dimen291
+\scratchbox=\box69
+\nofMPsegments=\count328
+\nofMParguments=\count329
+\everyMPshowfont=\toks36
+\MPscratchCnt=\count330
+\MPscratchDim=\dimen292
+\MPnumerator=\count331
+\makeMPintoPDFobject=\count332
+\everyMPtoPDFconversion=\toks37
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstop
+df-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infware
+rr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvde
+finekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions
+.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.s
+ty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys
+.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftex
+cmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-s
+ys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+\c@lstlisting=\count333
+Package babel Info: Main language set to 'brazil'.
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--105
+
+ []
+
+<bg.pdf, id=4, 598.235pt x 845.1575pt>
+File: bg.pdf Graphic file (type pdf)
+<use bg.pdf>
+Package pdftex.def Info: bg.pdf  used on input line 125.
+(pdftex.def)             Requested size: 603.51883pt x 852.62225pt.
+
+Overfull \hbox (6.01096pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+[1
+
+{C:/Users/Guilherme/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./bg.pdf
+>]
+File: bg.pdf Graphic file (type pdf)
+<use bg.pdf>
+Package pdftex.def Info: bg.pdf  used on input line 144.
+(pdftex.def)             Requested size: 603.51883pt x 852.62225pt.
+
+Overfull \hbox (6.01096pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+[2]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 152.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 152.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 152.
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--154
+[][]\OT1/cmr/bx/n/9 Universal Asynchronous
+ []
+
+
+Underfull \hbox (badness 1946) in paragraph at lines 158--159
+[]\OT1/cmr/m/n/9 No m^^S^^Pnimo, 4 fios (Clock, MOSI,
+ []
+
+
+Overfull \hbox (3.55856pt too wide) in paragraph at lines 152--177
+ [][] 
+ []
+
+File: bg.pdf Graphic file (type pdf)
+<use bg.pdf>
+Package pdftex.def Info: bg.pdf  used on input line 180.
+(pdftex.def)             Requested size: 603.51883pt x 852.62225pt.
+
+Overfull \hbox (6.01096pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+[3]
+<s1.png, id=34, 355.92975pt x 389.65575pt>
+File: s1.png Graphic file (type png)
+<use s1.png>
+Package pdftex.def Info: s1.png  used on input line 190.
+(pdftex.def)             Requested size: 182.09485pt x 199.35204pt.
+<original.jpg, id=36, 903.375pt x 969.6225pt>
+File: original.jpg Graphic file (type jpg)
+<use original.jpg>
+Package pdftex.def Info: original.jpg  used on input line 195.
+(pdftex.def)             Requested size: 182.09485pt x 195.44496pt.
+File: bg.pdf Graphic file (type pdf)
+<use bg.pdf>
+Package pdftex.def Info: bg.pdf  used on input line 252.
+(pdftex.def)             Requested size: 603.51883pt x 852.62225pt.
+
+Overfull \hbox (6.01096pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+[4 <./s1.png> <./original.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 253--255
+
+ []
+
+(esp32_spi_master.ino
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <8> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 1.
+)
+File: bg.pdf Graphic file (type pdf)
+<use bg.pdf>
+Package pdftex.def Info: bg.pdf  used on input line 267.
+(pdftex.def)             Requested size: 603.51883pt x 852.62225pt.
+
+Overfull \hbox (6.01096pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+[5] (esp32_spi_slave.ino)
+File: bg.pdf Graphic file (type pdf)
+<use bg.pdf>
+Package pdftex.def Info: bg.pdf  used on input line 272.
+(pdftex.def)             Requested size: 603.51883pt x 852.62225pt.
+
+Overfull \hbox (6.01096pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+[6]
+<result_master.jpg, id=51, 291.0875pt x 313.17pt>
+File: result_master.jpg Graphic file (type jpg)
+<use result_master.jpg>
+Package pdftex.def Info: result_master.jpg  used on input line 280.
+(pdftex.def)             Requested size: 182.09485pt x 195.91234pt.
+<result_slave.jpg, id=52, 258.9675pt x 300.12125pt>
+File: result_slave.jpg Graphic file (type jpg)
+<use result_slave.jpg>
+Package pdftex.def Info: result_slave.jpg  used on input line 285.
+(pdftex.def)             Requested size: 182.09485pt x 211.04054pt.
+<oscilloscope.jpg, id=53, 1284.8pt x 748.7975pt>
+File: oscilloscope.jpg Graphic file (type jpg)
+<use oscilloscope.jpg>
+Package pdftex.def Info: oscilloscope.jpg  used on input line 296.
+(pdftex.def)             Requested size: 256.95544pt x 149.75684pt.
+File: bg.pdf Graphic file (type pdf)
+<use bg.pdf>
+Package pdftex.def Info: bg.pdf  used on input line 305.
+(pdftex.def)             Requested size: 603.51883pt x 852.62225pt.
+
+Overfull \hbox (6.01096pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+[7 <./result_master.jpg> <./result_slave.jpg> <./oscilloscope.jpg>] (main.bbl
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 11.
+File: bg.pdf Graphic file (type pdf)
+<use bg.pdf>
+Package pdftex.def Info: bg.pdf  used on input line 12.
+(pdftex.def)             Requested size: 603.51883pt x 852.62225pt.
+
+Overfull \hbox (6.01096pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+[8])
+File: bg.pdf Graphic file (type pdf)
+<use bg.pdf>
+Package pdftex.def Info: bg.pdf  used on input line 336.
+(pdftex.def)             Requested size: 603.51883pt x 852.62225pt.
+
+Overfull \hbox (6.01096pt too wide) has occurred while \output is active
+ [][] 
+ []
+
+[9] (main.aux)
+ ***********
+LaTeX2e <2026-06-01>
+L3 programming layer <2026-08-10>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 35768 strings out of 467441
+ 908942 string characters out of 5405648
+ 1838192 words of memory out of 5000000
+ 64694 multiletter control sequences out of 15000+600000
+ 633508 words of font info for 60 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 107i,12n,108p,884b,1358s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Guilherme\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\
+tcrm1000.pk><C:/Users/Guilherme/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmbx10.pfb><C:/Users/Guilherme/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Guilherme/AppData/Local/Program
+s/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/Guilherme/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/Guilher
+me/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmitt10.pfb><C:
+/Users/Guilherme/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
+mr10.pfb><C:/Users/Guilherme/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmr8.pfb><C:/Users/Guilherme/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmr9.pfb><C:/Users/Guilherme/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Guilherme/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Guilherme/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Users/
+Guilherme/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.p
+fb><C:/Users/Guilherme/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmtt8.pfb>
+Output written on main.pdf (9 pages, 551542 bytes).
+PDF statistics:
+ 123 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 43 words of extra memory for PDF output out of 10000 (max. 10000000)
+
