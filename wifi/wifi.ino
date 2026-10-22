@@ -1,3 +1,5 @@
+/* Code to send data to Google Sheets, using Wi-Fi */
+
 #include <WiFi.h>
 #include <ESP_Google_Sheet_Client.h>
 #include <ESP32Servo.h>
