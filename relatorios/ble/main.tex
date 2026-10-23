@@ -109,7 +109,7 @@ Em um segundo momento, o modelo inicial será aprimorado com a inclusão do mód
 
 \section{Prática}
 
-\subsection{ADC interno}
+\subsection{Comparação entre }
 O ESP32 dispõe de dois conversores analógico-digitais de aproximação sucessiva (SAR) de 12 bits, denominados \textbf{ADC1} e \textbf{ADC2}, segundo a sua documentação oficial \cite{espressifESP32}. O ADC1 possui oito canais, distribuídos nos pinos GPIO32 a GPIO39, enquanto o ADC2 possui dez canais, mas compartilha recursos com o módulo Wi-Fi e, por isso, tem seu uso restringido quando este está ativo. Para a realização da prática, foi adotado o \textbf{ADC1}. Não foi necessário testar outra maneira de ligação.
 
 \subsection{ADC externo e comunicação I2C}
@@ -184,18 +184,17 @@ Durante a execução de ambas as partes, enfrentamos problemas para identificar 
 
 \section{Pós-Laboratório}
 
-\subsection{Benefício de empregar um ADC externo quando o sistema contém um ESP32}
-Embora o ESP32 possua conversores analógico-digitais (ADCs) internos, o uso de um componente externo como o ADS1115 traz vantagens importantes:
-\begin{enumerate}
-	\item \textbf{Evita conflitos com o Wi-Fi:} O segundo conversor interno do ESP32 compartilha recursos com o rádio Wi-Fi, o que pode gerar instabilidades ou bloqueios nas leituras durante o uso da rede sem fio. O ADS1115 utiliza comunicação digital ($I^2C$), operando de forma independente do Wi-Fi.
-	\item \textbf{Maior precisão e linearidade:} O conversor interno do ESP32 apresenta pequenas limitações e variações de leitura em faixas muito baixas ou muito altas de tensão. O ADS1115 oferece leituras mais estáveis, lineares e confiáveis.
-	\item \textbf{Maior resolução:} O ADS1115 possui resolução de 16 bits, o que permite capturar variações de sinal muito mais sutilezas do que os 12 bits nativos do ESP32.
-\end{enumerate}
+\subsection{Funcionamento do BLE}
+Ao contrário de seu antecessor, o Bluetooth "comum" (otimizado para uma comunicação contínua e com uma taxa de transferência de dados relativamente alta), o Bluetooth Low Energy tem como foco minimizar o consumo de energia, mantendo, ao mesmo tempo, a conectividade. Isso torna o Bluetooth® LE particularmente adequado para aplicações que exigem uma longa duração de bateria.
 
 \subsection{Tipo de ADC empregado no ADS1115 e seu funcionamento}
-O ADS1115 utiliza um conversor do tipo \textbf{Delta-Sigma ($\Delta\Sigma$)}. 
-
-Ele funciona amostrando o sinal de entrada em uma frequência muito alta (processo conhecido como sobreamostragem) e convertendo-o em um fluxo rápido de bits. Em seguida, um filtro digital interno processa esse fluxo de dados, eliminando os ruídos de alta frequência e gerando uma leitura digital final de alta precisão e resolução na saída.
+\begin{enumerate}
+	\item O BLE consome cerca de 1/10 da energia utilizada por dispositivos Bluetooth. Ele consegue isso permanecendo constantemente em "modo de repouso" (sleep mode) até que uma conexão seja iniciada.
+	\item Se os dispositivos precisarem de um alcance maior para operar, deve-se utilizar o Bluetooth; por outro lado, o BLE é a escolha ideal caso precisem operar por períodos mais longos a distâncias menores.
+	\item O BLE destaca-se na transmissão de pacotes de dados pequenos e pouco frequentes, com baixo consumo de energia e baixa latência, enquanto o Bluetooth é mais eficiente na transferência contínua de grandes volumes de dados.
+	\item O tempo de estabelecimento de uma conexão Bluetooth é de aproximadamente 100 ms, ao passo que, no BLE, esse tempo é de apenas alguns milissegundos — tornando as conexões via BLE muito mais rápidas do que as de dispositivos Bluetooth convencionais.
+	\item Dispositivos BLE conseguem conectar-se a um número maior de outros dispositivos, em comparação com o Bluetooth padrão.
+\end{enumerate}
 
 \section{Anexos}
 

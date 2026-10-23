@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.9.7)  18 OCT 2026 23:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.7.7)  22 OCT 2026 09:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **./main.tex
 (main.tex
 LaTeX2e <2026-06-01>
-L3 programming layer <2026-08-10>
+L3 programming layer <2026-06-18>
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
@@ -120,8 +120,8 @@ Package: inputenc 2024/02/08 v1.3d Input encoding file
 )
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/circuitikz\circuiti
 kz.sty
-Package: circuitikz 2026/05/24{} The CircuiTikz circuit drawing package version
- 1.8.6
+Package: circuitikz 2026/09/12{} The CircuiTikz circuit drawing package version
+ 1.8.7
 
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\t
 ikz.sty
@@ -143,9 +143,9 @@ util-latex.def
 rcs.code.tex
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.
 tex)
-Package: pgfrcs 2026-08-01 v3.1.12 (3.1.12)
+Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
 ))
-Package: pgf 2026-08-01 v3.1.12 (3.1.12)
+Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
 
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfc
 ore.sty
@@ -153,7 +153,7 @@ ore.sty
 sys.sty
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\p
 gfsys.code.tex
-Package: pgfsys 2026-08-01 v3.1.12 (3.1.12)
+Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
 
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgf
 keys.code.tex
@@ -187,31 +187,31 @@ keyslibraryfiltered.code.tex
 
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\p
 gf.cfg
-File: pgf.cfg 2026-08-01 v3.1.12 (3.1.12)
+File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
 )
 Driver file for pgf: pgfsys-pdftex.def
 
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\p
 gfsys-pdftex.def
-File: pgfsys-pdftex.def 2026-08-01 v3.1.12 (3.1.12)
+File: pgfsys-pdftex.def 2025-08-29 v3.1.11a (3.1.11a)
 
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\p
 gfsys-common-pdf.def
-File: pgfsys-common-pdf.def 2026-08-01 v3.1.12 (3.1.12)
+File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
 )))
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\p
 gfsyssoftpath.code.tex
-File: pgfsyssoftpath.code.tex 2026-08-01 v3.1.12 (3.1.12)
+File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfsyssoftpath@smallbuffer@items=\count293
 \pgfsyssoftpath@bigbuffer@items=\count294
 )
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\p
 gfsysprotocol.code.tex
-File: pgfsysprotocol.code.tex 2026-08-01 v3.1.12 (3.1.12)
+File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 ))
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
 fcore.code.tex
-Package: pgfcore 2026-08-01 v3.1.12 (3.1.12)
+Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
 
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.
 code.tex
@@ -254,7 +254,7 @@ loat.code.tex
 ode.tex)
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
 fcorepoints.code.tex
-File: pgfcorepoints.code.tex 2026-08-01 v3.1.12 (3.1.12)
+File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@picminx=\dimen170
 \pgf@picmaxx=\dimen171
 \pgf@picminy=\dimen172
@@ -272,19 +272,19 @@ File: pgfcorepoints.code.tex 2026-08-01 v3.1.12 (3.1.12)
 )
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
 fcorepathconstruct.code.tex
-File: pgfcorepathconstruct.code.tex 2026-08-01 v3.1.12 (3.1.12)
+File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@path@lastx=\dimen184
 \pgf@path@lasty=\dimen185
 )
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
 fcorepathusage.code.tex
-File: pgfcorepathusage.code.tex 2026-08-01 v3.1.12 (3.1.12)
+File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@shorten@end@additional=\dimen186
 \pgf@shorten@start@additional=\dimen187
 )
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
 fcorescopes.code.tex
-File: pgfcorescopes.code.tex 2026-08-01 v3.1.12 (3.1.12)
+File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfpic=\box57
 \pgf@hbox=\box58
 \pgf@layerbox@main=\box59
@@ -292,83 +292,83 @@ File: pgfcorescopes.code.tex 2026-08-01 v3.1.12 (3.1.12)
 )
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
 fcoregraphicstate.code.tex
-File: pgfcoregraphicstate.code.tex 2026-08-01 v3.1.12 (3.1.12)
+File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgflinewidth=\dimen188
 )
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
 fcoretransformations.code.tex
-File: pgfcoretransformations.code.tex 2026-08-01 v3.1.12 (3.1.12)
+File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@pt@x=\dimen189
 \pgf@pt@y=\dimen190
 \pgf@pt@temp=\dimen191
 )
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
 fcorequick.code.tex
-File: pgfcorequick.code.tex 2026-08-01 v3.1.12 (3.1.12)
+File: pgfcorequick.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
 fcoreobjects.code.tex
-File: pgfcoreobjects.code.tex 2026-08-01 v3.1.12 (3.1.12)
+File: pgfcoreobjects.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
 fcorepathprocessing.code.tex
-File: pgfcorepathprocessing.code.tex 2026-08-01 v3.1.12 (3.1.12)
+File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
 fcorearrows.code.tex
-File: pgfcorearrows.code.tex 2026-08-01 v3.1.12 (3.1.12)
+File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfarrowsep=\dimen192
 )
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
 fcoreshade.code.tex
-File: pgfcoreshade.code.tex 2026-08-01 v3.1.12 (3.1.12)
+File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@max=\dimen193
 \pgf@sys@shading@range@num=\count298
 \pgf@shadingcount=\count299
 )
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
 fcoreimage.code.tex
-File: pgfcoreimage.code.tex 2026-08-01 v3.1.12 (3.1.12)
+File: pgfcoreimage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
 fcoreexternal.code.tex
-File: pgfcoreexternal.code.tex 2026-08-01 v3.1.12 (3.1.12)
+File: pgfcoreexternal.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfexternal@startupbox=\box60
 )
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
 fcorelayers.code.tex
-File: pgfcorelayers.code.tex 2026-08-01 v3.1.12 (3.1.12)
+File: pgfcorelayers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
 fcoretransparency.code.tex
-File: pgfcoretransparency.code.tex 2026-08-01 v3.1.12 (3.1.12)
+File: pgfcoretransparency.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
 fcorepatterns.code.tex
-File: pgfcorepatterns.code.tex 2026-08-01 v3.1.12 (3.1.12)
+File: pgfcorepatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
 fcorerdf.code.tex
-File: pgfcorerdf.code.tex 2026-08-01 v3.1.12 (3.1.12)
+File: pgfcorerdf.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )))
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmo
 duleshapes.code.tex
-File: pgfmoduleshapes.code.tex 2026-08-01 v3.1.12 (3.1.12)
+File: pgfmoduleshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfnodeparttextbox=\box61
 )
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmo
 duleplot.code.tex
-File: pgfmoduleplot.code.tex 2026-08-01 v3.1.12 (3.1.12)
+File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\p
 gfcomp-version-0-65.sty
-Package: pgfcomp-version-0-65 2026-08-01 v3.1.12 (3.1.12)
+Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@nodesepstart=\dimen194
 \pgf@nodesepend=\dimen195
 )
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\p
 gfcomp-version-1-18.sty
-Package: pgfcomp-version-1-18 2026-08-01 v3.1.12 (3.1.12)
+Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
 ))
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffo
 r.sty
@@ -382,7 +382,7 @@ y
 code.tex))
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgf
 for.code.tex
-Package: pgffor 2026-08-01 v3.1.12 (3.1.12)
+Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
 \pgffor@iter=\dimen196
 \pgffor@skip=\dimen197
 \pgffor@stack=\toks32
@@ -390,11 +390,11 @@ Package: pgffor 2026-08-01 v3.1.12 (3.1.12)
 ))
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer
 /tikz\tikz.code.tex
-Package: tikz 2026-08-01 v3.1.12 (3.1.12)
+Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
 
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgf
 libraryplothandlers.code.tex
-File: pgflibraryplothandlers.code.tex 2026-08-01 v3.1.12 (3.1.12)
+File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@plot@mark@count=\count300
 \pgfplotmarksize=\dimen198
 )
@@ -417,7 +417,7 @@ File: pgflibraryplothandlers.code.tex 2026-08-01 v3.1.12 (3.1.12)
 
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmo
 dulematrix.code.tex
-File: pgfmodulematrix.code.tex 2026-08-01 v3.1.12 (3.1.12)
+File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfmatrixcurrentrow=\count305
 \pgfmatrixcurrentcolumn=\count306
 \pgf@matrix@numberofcolumns=\count307
@@ -426,15 +426,15 @@ File: pgfmodulematrix.code.tex 2026-08-01 v3.1.12 (3.1.12)
 
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer
 /tikz/libraries\tikzlibrarytopaths.code.tex
-File: tikzlibrarytopaths.code.tex 2026-08-01 v3.1.12 (3.1.12)
+File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )))
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer
 /tikz/libraries\tikzlibrarycalc.code.tex
-File: tikzlibrarycalc.code.tex 2026-08-01 v3.1.12 (3.1.12)
+File: tikzlibrarycalc.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgf
 libraryarrows.meta.code.tex
-File: pgflibraryarrows.meta.code.tex 2026-08-01 v3.1.12 (3.1.12)
+File: pgflibraryarrows.meta.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfarrowinset=\dimen263
 \pgfarrowlength=\dimen264
 \pgfarrowwidth=\dimen265
@@ -442,20 +442,20 @@ File: pgflibraryarrows.meta.code.tex 2026-08-01 v3.1.12 (3.1.12)
 )
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer
 /tikz/libraries\tikzlibrarybending.code.tex
-File: tikzlibrarybending.code.tex 2026-08-01 v3.1.12 (3.1.12)
+File: tikzlibrarybending.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmo
 dulebending.code.tex
-File: pgfmodulebending.code.tex 2026-08-01 v3.1.12 (3.1.12)
+File: pgfmodulebending.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmo
 dulenonlineartransformations.code.tex
-File: pgfmodulenonlineartransformations.code.tex 2026-08-01 v3.1.12 (3.1.12)
+File: pgfmodulenonlineartransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgftransformnonlinearflatness=\dimen267
 )
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgf
 librarycurvilinear.code.tex
-File: pgflibrarycurvilinear.code.tex 2026-08-01 v3.1.12 (3.1.12)
+File: pgflibrarycurvilinear.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@curvilinear@time@a=\dimen268
 \pgf@curvilinear@length@a=\dimen269
 \pgf@curvilinear@length@b=\dimen270
@@ -607,23 +607,23 @@ Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
 LaTeX Info: Redefining \_ on input line 43.
 )
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2026/08/21 v26.11 The multilingual framework for LuaLaTeX, pdfLa
-TeX and XeLaTeX
+Package: babel 2026/06/14 v26.9 The multilingual framework for LuaLaTeX, pdfLaT
+eX and XeLaTeX
 \babel@savecnt=\count324
 LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
-ne 2105.
+ne 2084.
 LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input li
-ne 2107.
+ne 2086.
 LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input lin
-e 2109.
+e 2088.
 LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input lin
-e 2110.
+e 2089.
 LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) 
-on input line 2111.
+on input line 2090.
 LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) 
-on input line 2113.
+on input line 2092.
 LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) 
-on input line 2138.
+on input line 2117.
 \U@D=\dimen290
 \l@unhyphenated=\language80
 
@@ -633,7 +633,7 @@ f)
 \bbl@dirlevel=\count325
 Package babel Info: Configuration files are deprecated, as
 (babel)             they can break document portability.
-(babel)             Reported on input line 4332.
+(babel)             Reported on input line 4252.
 
 *************************************
 * Local config file bblopts.cfg used
@@ -647,10 +647,10 @@ lid\babel-brazil.tex)
 
 Package babel Warning: Name 'brazil' is deprecated.
 (babel)                Use 'brazilian' instead.
-(babel)                Reported on input line 4460.
+(babel)                Reported on input line 4380.
 
 Package babel Info: Importing font and identification data for 'brazil'
-(babel)             from babel-pt-BR.ini. Reported on input line 4460.
+(babel)             from babel-pt-BR.ini. Reported on input line 4380.
 
 (C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/babel-portuges\braz
 ilian.ldf
@@ -659,9 +659,9 @@ Package babel Info: Hyphen rules for 'brazil' set to \l@portuguese
 (babel)             (\language56). Reported on input line 100.
 Package babel Info: Making " an active character on input line 132.
 ))
-(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\l3backend-
-pdftex.def
-File: l3backend-pdftex.def 2026-08-10 L3 backend support: PDF output (pdfTeX)
+(C:\Users\Guilherme\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend
+-pdftex.def
+File: l3backend-pdftex.def 2026-02-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count326
 ) (main.aux
 Package babel Info: 'brazil' activates 'portuges' shorthands.
@@ -751,6 +751,13 @@ Package babel Info: Main language set to 'brazil'.
 Underfull \hbox (badness 10000) in paragraph at lines 96--102
 
  []
+
+
+LaTeX Warning: Citation `espressifESP32' on page 1 undefined on input line 113.
+
+
+
+LaTeX Warning: Citation `tiADS1115' on page 1 undefined on input line 117.
 
 <v1.jpg, id=4, 1606.0pt x 903.375pt>
 File: v1.jpg Graphic file (type jpg)
@@ -843,30 +850,24 @@ Overfull \hbox (6.01096pt too wide) has occurred while \output is active
  [][] 
  []
 
-[6] (main.bbl)
-File: bg.pdf Graphic file (type pdf)
-<use bg.pdf>
-Package pdftex.def Info: bg.pdf  used on input line 210.
-(pdftex.def)             Requested size: 603.51883pt x 852.62225pt.
-
-Overfull \hbox (6.01096pt too wide) has occurred while \output is active
- [][] 
- []
-
-[7] (main.aux)
+[6] (main.bbl) (main.aux)
  ***********
 LaTeX2e <2026-06-01>
-L3 programming layer <2026-08-10>
+L3 programming layer <2026-06-18>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
  ) 
 Here is how much of TeX's memory you used:
- 35641 strings out of 467441
- 906755 string characters out of 5405648
- 1889053 words of memory out of 5000000
- 64574 multiletter control sequences out of 15000+600000
+ 35278 strings out of 467509
+ 894465 string characters out of 5406830
+ 1889936 words of memory out of 5000000
+ 64141 multiletter control sequences out of 15000+600000
  630555 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 107i,12n,108p,875b,1359s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,12n,108p,875b,1359s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Guilherme\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\
 tcrm1000.pk><C:/Users/Guilherme/AppData/Local/Programs/MiKTeX/fonts/type1/publi
 c/amsfonts/cm/cmbx10.pfb><C:/Users/Guilherme/AppData/Local/Programs/MiKTeX/font
@@ -880,9 +881,9 @@ onts/cm/cmsy10.pfb><C:/Users/Guilherme/AppData/Local/Programs/MiKTeX/fonts/type
 1/public/amsfonts/cm/cmti10.pfb><C:/Users/Guilherme/AppData/Local/Programs/MiKT
 eX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/Guilherme/AppData/Local/
 Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on main.pdf (7 pages, 961624 bytes).
+Output written on main.pdf (6 pages, 954174 bytes).
 PDF statistics:
- 102 PDF objects out of 1000 (max. 8388607)
+ 97 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  38 words of extra memory for PDF output out of 10000 (max. 10000000)
 
