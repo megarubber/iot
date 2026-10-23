@@ -180,7 +180,7 @@ Nos primeiros testes, utilizamos o osciloscópio para verificar se havia alguma 
 
 \section{Dificuldades Encontradas}
 
-Durante a execução de ambas as partes, enfrentamos problemas para identificar corretamente a origem das falhas apresentadas pelo módulo ADS1115. Em um primeiro momento, o conversor não apresentou funcionamento adequado, e foi necessário eliminar as possíveis variáveis por exclusão. Para isso, foi realizada a observação direta das oscilações do sinal do sensor LDR, o que permitiu verificar que o sensor e o divisor de tensão operavam normalmente e que o problema estava localizado no módulo. A hipótese mais provável é a de que a falha tenha ocorrido por mau contato nas soldas dos pinos A0 e GND. Portanto, optamos por soldar uma nova unidade do ADS1115, de modo a realizar a atividade em laboratório com menos problemas de ruído, uma vez que a placa anterior acabou sendo danificada acidentalmente por um curto-circuito.
+Tivemos pequenos problemas com relação à compilação, ou mais especificamente, o tempo necessário para realizar a \textit{build} de ambas as bibliotecas e gravá-las na memória flash do ESP32, já que estava significativamente elevado. Nosso grupo enfrentou dificuldades, pois quase metade do tempo disponível em aula era consumida pela espera de compilação e envio do \textit{sketch} para a ROM. Além disso, tivemos diversos logs relacionados à memória insuficiente já na parte de verificação da IDE sob o código. Para já solucionar esse problema, alteramos o esquema de particionamento padrão (\textit{default}) para \textbf{Huge APP (3MB No OTA / 1MB SPIFFS)}, disponibilizando mais espaço para comportar ambas as bibliotecas.
 
 \section{Pós-Laboratório}
 
